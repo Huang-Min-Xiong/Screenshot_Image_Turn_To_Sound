@@ -1,0 +1,4 @@
+PyAutoGUI==0.9.47
+pytesseract==0.3.4
+gTTS==2.1.1
+keyboard==0.13.5
