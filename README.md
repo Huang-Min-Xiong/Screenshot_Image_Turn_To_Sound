@@ -32,3 +32,23 @@ Tesseract-OCR
 
 #### 透過gTTS套件來實作功能
 - 將取出的文字轉為音檔,並存成MP3檔
+
+#### 程式說明
+使用Python語言開發，透過使用者輸入"Z"與"X"鍵來取得欲擷取之圖像範圍，然而透過辨識文字來做轉音檔的動作，
+
+並將翻譯結果呈現與寫入MP3檔。
+
+#### 執行結果
+![image](img/img1.PNG)
+
+![image](img/img2.PNG)
+
+![image](img/img3.PNG)
+
+![image](img/img4.PNG)
+
+![image](img/img5.PNG)
+
+![image](img/img6.PNG)
+
+![image](img/img7.PNG)
